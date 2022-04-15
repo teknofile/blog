@@ -27,6 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: teknofile.github.io
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://teknofile.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
+highlighter: rouge
 twitter_username: realteknofile
 github_username:  teknofile
 
