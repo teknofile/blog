@@ -31,10 +31,11 @@ markdown: kramdown
 highlighter: rouge
 twitter_username: realteknofile
 github_username:  teknofile
-remote_theme: qwtel/hydejack
+# remote_theme: qwtel/hydejack
 
 # Build settings
 # theme: minima
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
