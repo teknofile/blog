@@ -1,2 +1,0 @@
-- https://www.section.io/engineering-education/build-a-jekyll-site/
-- https://tech.nicolonsky.ch/migrate-ghost-blog-to-jekyll/
