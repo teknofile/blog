@@ -65,4 +65,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: vfvong/jekyll-theme-quartz
+remote_theme: freelancer-theme-jekyll
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
