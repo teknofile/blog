@@ -18,5 +18,5 @@ group :jekyll_plugins do
   gem "jekyll-gist", "~> 1.5"
   gem "jekyll-data", "~> 1.1"
   gem "webrick", "~> 1.7"
-  gem "jemoji", "~> 0.11.1"
+  gem "jemoji", "~> 0.13"
 end
