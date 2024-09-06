@@ -65,7 +65,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: freelancer-theme-jekyll
+remote_theme: jeromelachaud/freelancer-theme
 
 
 # Build settings
