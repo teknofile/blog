@@ -65,8 +65,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: jeromelachaud/freelancer-theme
-
+#remote_theme: startbootstrap/startbootstrap-clean-blog
+remote_teheme: y7kim/agency-jekyll-theme
 
 # Build settings
 markdown: kramdown
