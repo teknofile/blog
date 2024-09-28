@@ -1,0 +1,6 @@
+---
+author: teknofile
+project: scion
+---
+
+This is a test. @teknofile is trying to figure out his workflow for publishing new aritcles.

@@ -1,0 +1,18 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+<h1>Projects</h1>
+<table class="container">
+{% for project in site.projects %}
+  <tr>
+      <td colspan="2"><h3><a href="{{ project.url }}">{{ project.name }}</a></h3></td>
+  </tr>
+  <tr>
+    <td><img src="{{ project.image_logo | prepend: site.baseurl }}" alt="{{ project.title }}" title="{{ project.title }}" width="150px" /></td>
+    <td><div class="col-lg-8 col-md-10 mx-auto">{{ project.description }}</div></td>
+  </tr>
+  <tr><td colspan=2>&nbsp;</td></tr>
+{% endfor %}
+</table><br />
