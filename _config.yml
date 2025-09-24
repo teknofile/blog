@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: tkf capers
-email: teknofile@teknofile.org
+title: James Richardson
+email: james@jrichardson.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site/blog is a collection of thoughts, ideas, and
   projects that I have been working on. My interests are pretty
   varied, so you will find a wide range of topics here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jrichardson.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: realTeknofile
-github_username:  teknofile
+github_username:  james-t-richardson-ii
 linkedin_username: the-real-james-richardson
 
 # Build settings
